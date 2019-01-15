@@ -33,7 +33,7 @@ I believe the syllable in instruction 6 should be
 
 instead of
 
-        cmpeq $r2 = $r22, 0
+	cmpeq $r2 = $r22, 0
 
 ## P3L1
 Post pass register allocation. Lecture 18. Bipartite graph creation.
