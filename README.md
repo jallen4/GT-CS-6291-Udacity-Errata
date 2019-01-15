@@ -1,5 +1,9 @@
 # GT-CS-6291-Udacity-Errata
 
+# Book
+Note: The "Errata Corrige" page of the book "Embedded Computing: A VLIW Approach to Architecture, Compilers and Tools" can be found [here](http://www.vliw.org/book/errata.htm).
+
+
 ## IPC Quiz
 The percentages to the IPC quiz add up to 90%. That implies 10% of instructions take 0 cycles to execute! Not necessarily incorrect, but unrealistic.
 
