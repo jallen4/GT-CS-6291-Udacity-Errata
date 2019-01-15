@@ -50,10 +50,10 @@ Differential Register Encoding. Lecture 12 Quiz.
 Answer should be encoding of 13, not 3, so number of bits should be the same.
 
 ## P3L4
-Def Use Chains. Lecture 14 Quiz
+### Def Use Chains. Lecture 14 Quiz
 
 I believe the following quiz has an error for the DU of instruction 8. It says it is used only on line 6 and 8, but I believe it should be 6, 7, and 8
 
-Motion Range Determination Quiz. Lecture 19 Quiz
+### Motion Range Determination Quiz. Lecture 19 Quiz
 
 I believe the motion range for 7 is wrong. It says it can move from 4-7 but instruction 6 would modify the value of what is in r5 if you move 7 above it.
