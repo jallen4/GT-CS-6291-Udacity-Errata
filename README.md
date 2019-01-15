@@ -49,6 +49,12 @@ Differential Register Encoding. Lecture 12 Quiz.
 
 Answer should be encoding of 13, not 3, so number of bits should be the same.
 
+## P3L3
+
+There are issues on both Quiz 21 and Quiz 26
+
+In P3L3, Quiz 39, the red lines are incorrect. They should correspond to the MWPC (C-DG and E-F should both be red, DG-H should not be red)
+
 ## P3L4
 ### Def Use Chains. Lecture 14 Quiz
 
