@@ -20,8 +20,8 @@ First definition of VLIW, prof. Pande repeats himself on the number of transisto
 
 Role of the Compiler, there's a slip up at 0:31.
 
-VLIW v DSP Quiz - check shows up in wrong place
-
+## VLIW v DSP Quiz
+Check shows up in wrong place
 Error for checking the bit reverse addressing is confusing
 
 Example Pipeline
