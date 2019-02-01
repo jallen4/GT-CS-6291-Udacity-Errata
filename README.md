@@ -38,6 +38,10 @@ I believe the syllable in instruction 6 should be
 instead of
 
 	cmpeq $r2 = $r22, 0
+	
+## P1L6
+In Udacity, the screenshot of the quiz on predication in the lecture notes for 
+lesson 6 does not have the correct boxes checked based on the video.
 
 ## P3L1
 Post pass register allocation. Lecture 18. Bipartite graph creation.
